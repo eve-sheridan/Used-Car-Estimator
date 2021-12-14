@@ -21,9 +21,9 @@ Being able to predict a used car’s market value can help both buyers and selle
 -	Individuals who are looking to buy or sell a vehicle would benefit greatly from knowing what the true market value of a vehicle is in order to be able to accurately price vehicles they list for sale and to avoid being overcharged when purchasing a new vehicle.
 
 ### 3 The Dataset
-You can download the original file from the links below and save as vehicles.csv to your computer before running this code from the beginning.  Note this is quite a large file.
+You can download the original file from the links below and save as 'vehicles.csv' to your computer before running this code from the beginning.  Note this is quite a large file.
 
-Alternatively, you can use the cleaned dataset provied 'vehiclesclean2.csv' and go directly to section 4 in the Jupyter Notebook
+Alternatively, you can use the cleaned file provied in this repository 'vehiclesclean2.csv' and go directly to section 4 in the Jupyter Notebook
 
 - Description:	Used Cars Dataset.  Vehicles listings from Craigslist.org
 - Website URL: https://www.kaggle.com/austinreese/craigslist-carstrucks-data  
